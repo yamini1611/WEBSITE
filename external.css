@@ -1,0 +1,32 @@
+div{
+    background-image: url(assets/heading\ background.png);
+    padding-top: 200px;
+    padding-bottom: 100px;
+
+
+}
+
+#img1{
+    padding-left: 355px;
+    padding-bottom: 70px;
+    height: 150px;
+    position: relative;
+
+   
+}
+#img2{
+    float: right;
+    height:300px ;
+}
+#img3{
+    display: inline;
+    padding-left: 600px;
+    float: right;
+}
+#img4{
+    display: inline;
+    float: left;
+    
+    position:relative;
+
+}

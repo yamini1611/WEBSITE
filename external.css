@@ -1,22 +1,26 @@
-div{
+#div1{
     background-image: url(assets/heading\ background.png);
     padding-top: 200px;
     padding-bottom: 100px;
+    padding-left: 40px;
+    width: 1500px;
+    height:600px;
 
 
 }
 
 #img1{
-    padding-left: 355px;
-    padding-bottom: 70px;
+    padding-left: 810px;
+    padding-bottom: 300px;
     height: 150px;
-    position: relative;
+    
 
    
 }
 #img2{
     float: right;
     height:300px ;
+    padding-right: 50px;
 }
 #img3{
     display: inline;
@@ -24,9 +28,18 @@ div{
     float: right;
 }
 #img4{
-    display: inline;
     float: left;
-    
     position:relative;
-
+    padding-top: 2px;
+    height: 180px;
+    width: 180px;
+}
+h1{
+    text-align: center;
+    color: azure;
+    padding-top: 100px;;
+    font-size: 70px;
+}
+.nav justify-content-end{
+    position: relative;
 }

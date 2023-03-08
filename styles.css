@@ -2,18 +2,21 @@
     position: relative;
     text-align: center;
     color: white;
-    left: 4%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
 }
 
 .centered {
     position: absolute;
-    top: 50%;
-    left: 38.2%;
+    top: 38%;
+    left: 25%;
     transform: translate(-50%, -50%);
     font-family: "Reey-Regular";
-    font-size: 32px;
+    font-size: 38px;
     color: #ffffff;
     filter: drop-shadow(0px 5px 2.5px rgba(84, 82, 79, 0.22));
+    width: 100px;
 }
 li {
     color: rgb(240, 255, 255);
@@ -24,8 +27,8 @@ li {
 
 .logo {
     position: absolute;
-    top: 30%;
-    left: 35.65%;
+    top: 20%;
+    left: 32.65%;
 
     transform: translate(-50%, -50%);
 }
@@ -33,21 +36,22 @@ li {
 .noodles {
     position: absolute;
     top: 55%;
-    right: 20%;
+    right: -2%;
     transform: translate(-50%, -50%);
 }
 
 .sauce {
     position: absolute;
-    top: 70%;
-    right: 39.5%;
+    top: 78%;
+    right: 30.5%;
     transform: translate(-50%, -50%);
 }
 
 .leaves1 {
     position: absolute;
     top: 90.15%;
-    right: 20%;
+    right: -10%;
+    padding-left:10px;
     transform: translate(-50%, -50%);
 }
 
@@ -63,7 +67,7 @@ li {
  .read {
     position: absolute;
     top: 72%;
-    left: 35%;
+    left: 32%;
     transform: translate(-50%, -50%);
     border: initial;
     opacity: 0.902;
@@ -74,8 +78,8 @@ li {
 } 
 .body2 {
     position: absolute;
-    top: 62%;
-    left: 38%;
+    top: 59%;
+    left: 32%;
     right: 50%;
     transform: translate(-50%, -50%);
 }
@@ -84,13 +88,13 @@ li {
 
 .body1 {
     position: absolute;
-    top: 90%;
-    left: 38%;
+    top: 87%;
+    left: 32%;
     right: 50%;
     transform: translate(-50%, -50%);
 }
 
-.nav justify-content-end {
+ .nav justify-content-end {
     display: inline-block;
     position: absolute;
     top: 20%;
@@ -105,11 +109,11 @@ li {
     left: 55%;
     transform: translate(-50%, -50%);
  color: rgb(224, 224, 108);
-}
+} 
 
 .search {
     position: absolute;
-    top: 7%;
+    top: 80%;
     left: 67%;
     transform: translate(-50%, -50%);
 
@@ -125,7 +129,8 @@ li {
     bottom: 0%;
     padding-bottom: 0%;
     border-bottom: 0px;
-
+    width: 100%;
+    height:100%;
 }
 
 .title1 {
@@ -173,14 +178,14 @@ li {
 .tit2 {
     position: absolute;
     top: 43%;
-    left: 52.2%;
+    left: 51.2%;
     transform: translate(-50%, -50%);
 }
 
 .tit3 {
     position: absolute;
     top: 43%;
-    left: 40%;
+    left: 39%;
     transform: translate(-50%, -50%);
 }
 
@@ -197,7 +202,7 @@ li {
 
     position: absolute;
     top: 140%;
-    left: 40%;
+    left: 50%;
     transform: translate(-50%, -50%);
 }
 
@@ -243,7 +248,7 @@ li {
 
 .ti1 {
     position: absolute;
-    top: 20%;
+    top: 19%;
     left: 30%;
     transform: translate(-50%, -50%);
 }
@@ -291,21 +296,21 @@ li {
 
 .b1 {
     position: absolute;
-    top: 260%;
+    top: 240%;
     left: 51%;
     transform: translate(-50%, -50%);
 }
 
 .b2 {
     position: absolute;
-    top: 255%;
+    top: 235%;
     left: 68%;
     transform: translate(-50%, -50%);
 }
 
 .b3 {
     position: absolute;
-    top: 275%;
+    top: 255%;
     left: 72%;
     transform: translate(-50%, -50%);
     width: 600px;
@@ -328,7 +333,7 @@ li {
   }
  .read4 {
     position: absolute;
-    top: 280%;
+    top: 260%;
     left: 60%;
     transform: translate(-50%, -50%);
     border: initial;
@@ -341,21 +346,21 @@ li {
 }
 .b5 {
     position: absolute;
-    top: 303%;
+    top: 285%;
     left: 72%;
     transform: translate(-50%, -50%);
 }
 
 .b6 {
     position: absolute;
-    top: 293%;
+    top: 277%;
     left: 54%;
     transform: translate(-50%, -50%);
 }
 
 .b7 {
     position: absolute;
-    top: 310%;
+    top: 292%;
     left: 53%;
     transform: translate(-50%, -50%);
     width: 452px;
@@ -379,7 +384,7 @@ li {
   }
  .read5 {
     position: absolute;
-    top: 320%;
+    top: 296%;
     left: 45%;
     transform: translate(-50%, -50%);
     border: initial;
@@ -402,7 +407,7 @@ li {
 
 .c1 {
     position: absolute;
-    top: 342%;
+    top: 318%;
     left: 60%;
     transform: translate(-50%, -50%);
 
@@ -411,12 +416,12 @@ li {
 
 .c2 {
     position: absolute;
-    top: 360%;
+    top: 330%;
     left: 52%;
     transform: translate(-50%, -50%);
     width: 294px;
     height: 150px;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 33px;
     color: #f8f6f1;
     font-weight: 400;
@@ -426,7 +431,7 @@ li {
 
 .c3 {
     position: absolute;
-    top: 390%;
+    top: 355%;
     left: 60%;
     transform: translate(-50%, -50%);
 
@@ -435,7 +440,7 @@ li {
 
 .c4 {
     position: absolute;
-    top: 398%;
+    top: 362%;
     left: 53%;
     transform: translate(-50%, -50%);
 
@@ -444,7 +449,7 @@ li {
 
 .c5 {
     position: absolute;
-    top: 340%;
+    top: 310%;
     left: 42%;
     transform: translate(-50%, -50%);
 
@@ -452,6 +457,7 @@ li {
 }
 
 .container5 {
+    position: relative;
     top: 383%;
     left: 32%;
     padding-left: 0px;
@@ -461,7 +467,7 @@ li {
 
 .d1 {
     position: absolute;
-    top: 420%;
+    top: 380%;
     left: 50%;
     transform: translate(-50%, -50%);
 
@@ -470,7 +476,7 @@ li {
 
 .d2 {
     position: absolute;
-    top: 420%;
+    top: 380%;
     left: 63%;
     transform: translate(-50%, -50%);
 
@@ -479,7 +485,7 @@ li {
 
 .d3 {
     position: absolute;
-    top: 420%;
+    top: 380%;
     left: 76%;
     transform: translate(-50%, -50%);
 
@@ -488,7 +494,7 @@ li {
 
 .d4 {
     position: absolute;
-    top: 432%;
+    top: 392%;
     left: 70%;
     transform: translate(-50%, -50%);
     font-size: 11.6px;
@@ -503,7 +509,7 @@ li {
 
 .d5 {
     position: absolute;
-    top: 432%;
+    top: 392%;
     left: 55%;
     transform: translate(-50%, -50%);
     font-size: 11.6px;
@@ -511,14 +517,14 @@ li {
     color: #333d42;
     font-weight: 400;
     font-family: "Open Sans";
-    width: 120px;
+    width: 122px;
     height: 100px;
 
 }
 
 .d6 {
     position: absolute;
-    top: 432%;
+    top: 392%;
     left: 40%;
     transform: translate(-50%, -50%);
     font-size: 11.6px;
@@ -533,7 +539,7 @@ li {
 
 .d7 {
     position: absolute;
-    top: 532%;
+    top: 412%;
     left: 55%;
     transform: translate(-50%, -50%);
     font-size: 20px;
@@ -549,7 +555,7 @@ li {
 
 .d8 {
     position: absolute;
-    top: 555%;
+    top: 425%;
     left: 55%;
     transform: translate(-50%, -50%);
     font-size: 15px;
@@ -563,16 +569,16 @@ li {
 .container6 {
     top: 383%;
     left: 64%;
-    padding-left: 418px;
+    padding-left: 428px;
 }
 
 .e1 {
     position: absolute;
-    top: 592%;
+    top: 445%;
     left: 65%;
     transform: translate(-50%, -50%);
     font-size: 75px;
-    color: #ffffff;
+    color: #faf1f1;
     font-weight: 700;
     font-family: "Open Sans";
     text-align: center;
@@ -580,10 +586,10 @@ li {
 
 .e2 {
     position: absolute;
-    top: 602%;
+    top: 452%;
     left: 55%;
     transform: translate(-50%, -50%);
-    width: 500px;
+    width: 510px;
     height: 2px;
     font-size: 13px;
     color: #ffffff;
@@ -601,7 +607,7 @@ li {
   }
  .read6 {
     position: absolute;
-    top: 620%;
+    top: 466%;
     left: 55%;
     transform: translate(-50%, -50%);
     border: initial;
@@ -621,34 +627,34 @@ li {
   }
  .read7 {
     position: absolute;
-    top: 620%;
+    top: 466%;
     left: 65%;
     transform: translate(-50%, -50%);
     border: initial;
     opacity: 0.902;
-    width: 130px;
+    width: 110px;
     height: 30px;
     border-radius: 21px;
-    background-color: #807a7a;
+    background-color: #5f5c5c;
 }
 
 
 .e5 {
     position: absolute;
-    top: 602%;
+    top: 452%;
     left: 54%;
     transform: translate(-50%, -50%);
 }
 
 .container7 {
     top: 353%;
-    left: 64%;
-    padding-left: 418px;
+    left: 74%;
+    padding-left: 488px;
 }
 
 .f1 {
     position: absolute;
-    top: 648%;
+    top: 488%;
     left: 42%;
     transform: translate(-50%, -50%);
     font-size: 32px;
@@ -659,7 +665,7 @@ li {
 
 .f2 {
     position: absolute;
-    top: 654%;
+    top: 494%;
     left: 42%;
     transform: translate(-50%, -50%);
     width: 185px;
@@ -672,25 +678,25 @@ li {
 
 .f3 {
     position: absolute;
-    top: 660%;
+    top: 500%;
     left: 54%;
     transform: translate(-50%, -50%);
 }
 .f5 {
     position: absolute;
-    top: 660%;
+    top: 500%;
     left: 62%;
     transform: translate(-50%, -50%);
 }
 .f7 {
     position: absolute;
-    top: 658%;
+    top: 500%;
     left: 72%;
     transform: translate(-50%, -50%);
 }
 .f8 {
     position: absolute;
-    top: 647%;
+    top: 490%;
     left: 53%;
     transform: translate(-50%, -50%);
     font-size: 32px;
@@ -700,7 +706,7 @@ li {
 }
 .f6 {
     position: absolute;
-    top: 647%;
+    top: 490%;
     left: 72%;
     transform: translate(-50%, -50%);
     font-size: 32px;
@@ -710,7 +716,7 @@ li {
 }
 .f4 {
     position: absolute;
-    top: 647%;
+    top: 490%;
     left: 61.5%;
     transform: translate(-50%, -50%);
     font-size: 32px;
@@ -720,7 +726,7 @@ li {
 }
 .g1 {
     position: absolute;
-    top: 674%;
-    left: 38%;
+    top: 510%;
+    left: 40%;
     transform: translate(-50%, -50%);
 }

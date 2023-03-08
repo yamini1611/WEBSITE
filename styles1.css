@@ -20,3 +20,22 @@
     top:150px;
     left:750px;
 }
+ul {
+    list-style-type: none;
+    top: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(13, 13, 13);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.head{
+    position: absolute;
+}
